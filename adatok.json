@@ -1,0 +1,20 @@
+{
+  "termekLISTA": [
+    {
+      "nev": "Cipő",
+      "szin": "fehér"
+    },
+    {
+      "nev": "Cipő",
+      "szin": "sárga"
+    },
+    {
+      "nev": "Pulcsi",
+      "szin": "fekete"
+    },
+    {
+      "nev": "Nadrág",
+      "szin": "kék"
+    }
+  ]
+}
